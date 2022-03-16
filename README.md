@@ -1,6 +1,8 @@
 # Incident_Impact_Prediction
 To predict the impact of the incident raised by the customer.
-##Objective:
+
+
+#Objective:
 
 Whenever a service being provided to the customer is disrupted, the customer raises a complaint to the customer service; who in turn raises a ticket. 
 When an incident is logged, a lot of data related to the incident is recorded for ex: time, status …
